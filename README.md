@@ -2,15 +2,6 @@
 
 Portafolio web personal hecho con **HTML, CSS y JavaScript** sobre la plantilla *Resume* de Start Bootstrap. Presenta mi perfil como estudiante de Ingeniería en Sistemas Computacionales, mis proyectos, mi formación, mis habilidades y mis metas de certificación.
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.2.3-7952B3?logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-publicado-brightgreen?logo=github)
-
-🔗 **Portafolio en vivo:** https://jpelon-jpg.github.io/Portafolio/
-📁 **Repositorio:** https://github.com/jpelon-jpg/Portafolio
-
 ---
 
 ## 📑 Contenido
@@ -118,16 +109,16 @@ No requiere instalación ni dependencias: Bootstrap, Font Awesome y las fuentes 
 ## 📸 Capturas de pantalla
 
 ### Inicio / Sobre mí
-![Sobre mí](img/captura-inicio.png)
+![Sobre mí](img/INICIO.png)
 
 ### Proyectos
-![Proyectos](img/captura-proyectos.png)
+![Proyectos](img/PROYECTOS.png)
 
 ### Educación y Skills
-![Skills](img/captura-skills.png)
+![Educacion](img/EDUCACION.png)
+![Skills](img/SKILLS.png)
 
-### Vista en celular
-![Vista móvil](img/captura-movil.png)
+
 
 ## 📜 Créditos y licencia
 
